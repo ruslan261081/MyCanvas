@@ -1,0 +1,11 @@
+C:\Users\rosla\source\repos\Canvas\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\Canvas\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\Canvas\Client\bin\Debug\Client.exe.config
+C:\Users\rosla\source\repos\Canvas\Client\bin\Debug\Client.exe
+C:\Users\rosla\source\repos\Canvas\Client\bin\Debug\Client.pdb
+C:\Users\rosla\source\repos\Canvas\Client\bin\Debug\Canvas.exe
+C:\Users\rosla\source\repos\Canvas\Client\bin\Debug\Canvas.pdb
+C:\Users\rosla\source\repos\Canvas\Client\bin\Debug\Canvas.exe.config
+C:\Users\rosla\source\repos\Canvas\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\rosla\source\repos\Canvas\Client\obj\Debug\Client.exe
+C:\Users\rosla\source\repos\Canvas\Client\obj\Debug\Client.pdb

@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\Canvas\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\Canvas\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\Canvas\Canvas\bin\Debug\Canvas.exe.config
+C:\Users\rosla\source\repos\Canvas\Canvas\bin\Debug\Canvas.exe
+C:\Users\rosla\source\repos\Canvas\Canvas\bin\Debug\Canvas.pdb
+C:\Users\rosla\source\repos\Canvas\Canvas\obj\Debug\Canvas.exe
+C:\Users\rosla\source\repos\Canvas\Canvas\obj\Debug\Canvas.pdb
